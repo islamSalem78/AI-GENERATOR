@@ -1,5 +1,5 @@
 
-const api="k-7l9bxvFZvjGeWDZFK5YUT3lbkFJNLMMlOCXUWEErLv3oifF";
+const api="k-yujGeWDZFK5YUT3lbkFJNLMMlOCXUWEErLv3oifF";
 const button=document.getElementById("button");
 const input=document.querySelector("input")
 const imgss=document.querySelector('.images-section')
